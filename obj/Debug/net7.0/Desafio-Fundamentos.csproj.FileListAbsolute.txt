@@ -1,0 +1,14 @@
+C:\Users\lopes\OneDrive\Área de Trabalho\Desafio-Fundamentos\bin\Debug\net7.0\Desafio-Fundamentos.exe
+C:\Users\lopes\OneDrive\Área de Trabalho\Desafio-Fundamentos\bin\Debug\net7.0\Desafio-Fundamentos.deps.json
+C:\Users\lopes\OneDrive\Área de Trabalho\Desafio-Fundamentos\bin\Debug\net7.0\Desafio-Fundamentos.runtimeconfig.json
+C:\Users\lopes\OneDrive\Área de Trabalho\Desafio-Fundamentos\bin\Debug\net7.0\Desafio-Fundamentos.dll
+C:\Users\lopes\OneDrive\Área de Trabalho\Desafio-Fundamentos\bin\Debug\net7.0\Desafio-Fundamentos.pdb
+C:\Users\lopes\OneDrive\Área de Trabalho\Desafio-Fundamentos\obj\Debug\net7.0\Desafio-Fundamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lopes\OneDrive\Área de Trabalho\Desafio-Fundamentos\obj\Debug\net7.0\Desafio-Fundamentos.AssemblyInfoInputs.cache
+C:\Users\lopes\OneDrive\Área de Trabalho\Desafio-Fundamentos\obj\Debug\net7.0\Desafio-Fundamentos.AssemblyInfo.cs
+C:\Users\lopes\OneDrive\Área de Trabalho\Desafio-Fundamentos\obj\Debug\net7.0\Desafio-Fundamentos.csproj.CoreCompileInputs.cache
+C:\Users\lopes\OneDrive\Área de Trabalho\Desafio-Fundamentos\obj\Debug\net7.0\Desafio-Fundamentos.dll
+C:\Users\lopes\OneDrive\Área de Trabalho\Desafio-Fundamentos\obj\Debug\net7.0\refint\Desafio-Fundamentos.dll
+C:\Users\lopes\OneDrive\Área de Trabalho\Desafio-Fundamentos\obj\Debug\net7.0\Desafio-Fundamentos.pdb
+C:\Users\lopes\OneDrive\Área de Trabalho\Desafio-Fundamentos\obj\Debug\net7.0\Desafio-Fundamentos.genruntimeconfig.cache
+C:\Users\lopes\OneDrive\Área de Trabalho\Desafio-Fundamentos\obj\Debug\net7.0\ref\Desafio-Fundamentos.dll
